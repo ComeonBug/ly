@@ -2,10 +2,7 @@
 # pip install Appium-Python-Client
 # Then you can paste this into a file and simply run with Python
 import time
-from time import sleep
 from appium import webdriver
-import pytest
-from appium.webdriver.common.touch_action import TouchAction
 from selenium.webdriver.support.wait import WebDriverWait
 
 
